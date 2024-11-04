@@ -1,0 +1,15 @@
+C:\Users\labc205\Desktop\SemestreIIEd\practica3N\InicioSesion\bin\Debug\InicioSesion.exe.config
+C:\Users\labc205\Desktop\SemestreIIEd\practica3N\InicioSesion\bin\Debug\InicioSesion.exe
+C:\Users\labc205\Desktop\SemestreIIEd\practica3N\InicioSesion\bin\Debug\InicioSesion.pdb
+C:\Users\labc205\Desktop\SemestreIIEd\practica3N\InicioSesion\bin\Debug\MetroFramework.Design.dll
+C:\Users\labc205\Desktop\SemestreIIEd\practica3N\InicioSesion\bin\Debug\MetroFramework.dll
+C:\Users\labc205\Desktop\SemestreIIEd\practica3N\InicioSesion\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\labc205\Desktop\SemestreIIEd\practica3N\InicioSesion\obj\Debug\InicioSesion.csproj.AssemblyReference.cache
+C:\Users\labc205\Desktop\SemestreIIEd\practica3N\InicioSesion\obj\Debug\InicioSesion.LoginForm.resources
+C:\Users\labc205\Desktop\SemestreIIEd\practica3N\InicioSesion\obj\Debug\InicioSesion.Properties.Resources.resources
+C:\Users\labc205\Desktop\SemestreIIEd\practica3N\InicioSesion\obj\Debug\InicioSesion.csproj.GenerateResource.cache
+C:\Users\labc205\Desktop\SemestreIIEd\practica3N\InicioSesion\obj\Debug\InicioSesion.csproj.CoreCompileInputs.cache
+C:\Users\labc205\Desktop\SemestreIIEd\practica3N\InicioSesion\obj\Debug\InicioSe.1DA0B410.Up2Date
+C:\Users\labc205\Desktop\SemestreIIEd\practica3N\InicioSesion\obj\Debug\InicioSesion.exe
+C:\Users\labc205\Desktop\SemestreIIEd\practica3N\InicioSesion\obj\Debug\InicioSesion.pdb
+C:\Users\labc205\Desktop\SemestreIIEd\practica3N\InicioSesion\obj\Debug\InicioSesion.Formularios.Form1.resources
